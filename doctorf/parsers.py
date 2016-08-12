@@ -3,6 +3,7 @@ from collections import OrderedDict
 import json
 
 # Django
+from django.conf import settings
 from django.utils import six
 
 # Django REST Framework
