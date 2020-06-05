@@ -1,5 +1,5 @@
 # PIP Requirements (for a development/build/test environment, Python 2.7).
 
-Django==1.8.13
+Django==1.11.29
 djangorestframework==3.3.3
 drf-extensions==0.2.8
